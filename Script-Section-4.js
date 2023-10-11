@@ -23,3 +23,7 @@ class Storage {
       localStorage.setItem("products", JSON.stringify(updatedProducts));
     }
   }
+
+  // Section 6 ################################################################################
+
+  
