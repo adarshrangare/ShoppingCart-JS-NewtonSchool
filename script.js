@@ -242,6 +242,8 @@ class Product {
 
 window.Product = Product;
 
+// 4
+
 class Storage {
     static getproducts() {
         let products;
@@ -378,7 +380,7 @@ document.querySelectorAll(".addtocart").forEach((e) => {
     };
 });
 
-// 7
+// 8
 
 
 //     if(Storage.getproducts()!=0){
